@@ -1,0 +1,24 @@
+{
+  "parameters":
+{
+  "local_server": "True",
+  "local_uri": "mysql+pymysql://root:@localhost/coders",
+  "prod_uri": "mysql+pymysql://root:@localhost/coders",
+  "fb_url": "https://facebook.com/coders",
+  "twt_url": "https://twitter.com/coders",
+  "git_url": "https://github.com/coders",
+  "blog_name": "CODERS",
+  "gmail_user": "mature7890@gmail.com",
+  "gmail_password": "auoypqtcrauulhkt",
+  "no_of_posts": 2,
+  "login_img": "logo.svg",
+  "admin_user": "usman",
+  "admin_password": "768647",
+  "uploader_location": "C:\\Users\\Shyla Ayub\\PycharmProjects\\flasktut"
+}
+
+
+
+
+
+}
